@@ -1,10 +1,12 @@
 **Chat Bot using Microsoft Azure Language Service**
 
 This repository contains a chat bot built on the Microsoft Azure platform, powered by the Language Service. The chat bot is designed to interact with users just like a normal person and is capable of running on Microsoft Teams. It utilizes a dataset from Kaggle to provide context-aware responses and aims to engage users in meaningful conversations.
+
 **Acknowledgments**
 
 The chat bot is built on top of the powerful Microsoft Azure Language Service.
 The training data for the chat bot comes from the Kaggle dataset, which has been instrumental in making the bot contextually aware.
+
 **Disclaimer**
 
 The chat bot's behavior and responses are based on the provided Kaggle dataset and the algorithms implemented. It may not always provide accurate or appropriate responses.
